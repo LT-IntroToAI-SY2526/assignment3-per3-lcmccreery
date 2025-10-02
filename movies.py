@@ -435,4 +435,16 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    (
+        "the good, the bad, and the ugly",
+        "sergio leone",
+        1966,
+        [
+            "clint eastwood",
+            "eli wallach",
+            "lee van cleef",
+            "antonio casale",
+            "rada rassamov",
+        ]
+    ),
 ]
